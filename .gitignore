@@ -1,0 +1,21 @@
+# ignore files
+
+# directories
+data/
+results/
+
+
+# files
+*.pdf
+*.png
+*.pptx
+*.rds
+*.xlsx
+*.docx
+*.txt
+*.csv
+*.sdf
+*.mp4
+*.out
+*.pt
+*.jupyterlab-workspace
